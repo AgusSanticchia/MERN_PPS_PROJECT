@@ -49,7 +49,7 @@ npm run dev
 ### API REST
 
 - POST /api/products
-- GET POST /api/products
+- GET /api/products
 - PUT /api/products/:id
 - DELETE /api/products/:id
 
